@@ -3,7 +3,7 @@
 Welcome to my portfolio! This is a dynamic website built using React.js and Node.js to showcase my professional journey, skills, projects, and more. Explore the various sections to learn more about me and my work. 
 
 ## 🌐 Live Example
-Check out the live version of the portfolio [here](https://your-github-username.github.io/).
+Check out the live version of the portfolio [here](https://shivamksah-portfolio.vercel.app/).
 
 ## 📚 Sections
 - **Summary and About Me** ✨
