@@ -83,13 +83,13 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
+        /*{
           skillName: "Sass",
           fontAwesomeClassname: "simple-icons:sass",
           style: {
             color: "#CC6699",
           },
-        },
+        },*/
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -112,7 +112,7 @@ const skills = {
             color: "#339933",
           },
         },
-        {
+        /*{
           skillName: "Yarn",
           fontAwesomeClassname: "simple-icons:yarn",
           style: {
@@ -125,7 +125,7 @@ const skills = {
           style: {
             color: "#02569B",
           },
-        },
+        },*/
       ],
 },
     {
