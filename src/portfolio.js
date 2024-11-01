@@ -353,6 +353,105 @@ const certifications = {
       color_code: "#ff7ce7",
     },
 
+    {
+      title: "AWS Certified Developer - Associate - Prep Course",
+      subtitle: "- Infosys Springboard",
+      logo_path: "infosys.png",
+      certificate_link:
+        "",
+      alt_name: "AWS Certified Developer - Associate - Prep Course",
+      color_code: "#641e16",
+    },
+
+    {
+      title: "Accenture North America - Data Analytics and Visualization Job Simulation",
+      subtitle: "- Forage",
+      logo_path: "forage.png",
+      certificate_link:
+        "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_qDs8sY4SkuxfLmEHj_1725818432093_completion_certificate.pdf?trk=public_profile_see-credential",
+      alt_name: "Forage",
+      color_code: "#f4d03f",
+    },
+
+    {
+      title: "Career Essentials in Generative AI by Microsoft and LinkedIn",
+      subtitle: "- LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/41f0c54efba0ba995b6273d4d310c26dbe9a5e8eea9b7f876a95391c190ea4a6?trk=public_profile_see-credential",
+      alt_name: "Career Essentials in Generative AI by Microsoft and LinkedIn",
+      color_code: "#b3b6b7",
+    },
+
+    {
+      title: "Ciphervault Winner - First Place",
+      subtitle: "- SRM Institute of Science and Technology",
+      logo_path: "srm.png",
+      certificate_link:
+        "https://graphacademy.neo4j.com/c/f2e0a7c2-10fb-460f-a5dc-fc402b510048/?trk=public_profile_see-credential",
+      alt_name: "Ciphervault Winner - First Place",
+      color_code: "#2980b9",
+    },
+
+    {
+      title: "Introduction to Cybersecurity",
+      subtitle: "- Cisco",
+      logo_path: "cisco.png",
+      certificate_link:
+        "https://www.credly.com/badges/f7f5933b-2638-490c-b254-3ae72f5604b7/public_url?trk=public_profile_see-credential",
+      alt_name: "Introduction to Cybersecurity",
+      color_code: "#2ecc71",
+    },
+
+    {
+      title: "Java (Basic)",
+      subtitle: "- HackerRank",
+      logo_path: "hackerRank.png",
+      certificate_link:
+        "https://www.hackerrank.com/certificates/39f915400073?trk=public_profile_see-credential",
+      alt_name: "hackerRank",
+      color_code: "#eb984e",
+    },
+
+    {
+      title: "Problem Solving (Basic)",
+      subtitle: "- HackerRank",
+      logo_path: "hackerRank.png",
+      certificate_link:
+        "https://www.hackerrank.com/certificates/2619b16cde69?trk=public_profile_see-credential",
+      alt_name: "hackerRank",
+      color_code: "#85c1e9",
+    },
+
+    {
+      title: "Python (Basic)",
+      subtitle: "- HackerRank",
+      logo_path: "hackerRank.png",
+      certificate_link:
+        "https://www.hackerrank.com/certificates/90eb24116de3?trk=public_profile_see-credential",
+      alt_name: "hackerRank",
+      color_code: "#ecf0f1",
+    },
+
+    {
+      title: "Working with Big Data in Python",
+      subtitle: "- Infosys Springboard",
+      logo_path: "infosys.png",
+      certificate_link:
+        "",
+      alt_name: "Working with Big Data in Python",
+      color_code: "#884ea0",
+    },
+
+    {
+      title: "Micro-Certification - Welcome to ServiceNow",
+      subtitle: "- ServiceNow",
+      logo_path: "servicenow.png",
+      certificate_link:
+        "",
+      alt_name: "Micro-Certification - Welcome to ServiceNow",
+      color_code: "#27ae60",
+    },
 	  
     {
       title: "Unity Essentials Pathway",
