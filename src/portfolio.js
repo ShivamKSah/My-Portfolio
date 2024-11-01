@@ -344,6 +344,17 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Neo4j Certified Professional",
+      subtitle: "- Neo4j",
+      logo_path: "neo4j.png",
+      certificate_link:
+        "https://graphacademy.neo4j.com/c/f2e0a7c2-10fb-460f-a5dc-fc402b510048/?trk=public_profile_see-credential",
+      alt_name: "Neo4j Certified Professional",
+      color_code: "#ff7ce7",
+    },
+
+	  
+    {
       title: "Unity Essentials Pathway",
       subtitle: "- Unity",
       logo_path: "unity.png",
