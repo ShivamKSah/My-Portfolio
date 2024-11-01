@@ -137,7 +137,7 @@ const skills = {
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
-        {
+        /*{
           skillName: "Tensorflow",
           fontAwesomeClassname: "logos-tensorflow",
           style: {
@@ -158,7 +158,7 @@ const skills = {
           style: {
             backgroundColor: "transparent",
           },
-        },
+        },*/
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -197,7 +197,7 @@ const skills = {
             color: "#FF9900",
           },
         },
-        {
+        /*{
           skillName: "Azure",
           fontAwesomeClassname: "simple-icons:microsoftazure",
           style: {
@@ -217,7 +217,7 @@ const skills = {
           style: {
             color: "#336791",
           },
-        },
+        },*/
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -225,7 +225,7 @@ const skills = {
             color: "#47A248",
           },
         },
-        {
+        /*{
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
           style: {
@@ -238,7 +238,7 @@ const skills = {
           style: {
             color: "#326CE5",
           },
-        },
+        },*/
       ],
     },
     {
@@ -271,13 +271,13 @@ const skills = {
             color: "#FF7C00",
           },
         },
-        {
+        /*{
           skillName: "Inkscape",
           fontAwesomeClassname: "simple-icons:inkscape",
           style: {
             color: "#000000",
           },
-        },
+        },*/
       ],
     },
   ],
