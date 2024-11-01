@@ -358,7 +358,7 @@ const certifications = {
       subtitle: "- Infosys Springboard",
       logo_path: "infosys.png",
       certificate_link:
-        "",
+        "https://graphacademy.neo4j.com",
       alt_name: "AWS Certified Developer - Associate - Prep Course",
       color_code: "#641e16",
     },
@@ -438,7 +438,7 @@ const certifications = {
       subtitle: "- Infosys Springboard",
       logo_path: "infosys.png",
       certificate_link:
-        "",
+        "https://graphacademy.neo4j.com",
       alt_name: "Working with Big Data in Python",
       color_code: "#884ea0",
     },
@@ -448,7 +448,7 @@ const certifications = {
       subtitle: "- ServiceNow",
       logo_path: "servicenow.png",
       certificate_link:
-        "",
+        "https://graphacademy.neo4j.com",
       alt_name: "Micro-Certification - Welcome to ServiceNow",
       color_code: "#27ae60",
     },
