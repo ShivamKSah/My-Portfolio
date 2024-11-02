@@ -356,7 +356,7 @@ const certifications = {
     {
       title: "AWS Certified Developer - Associate - Prep Course",
       subtitle: "- Infosys Springboard",
-      logo_path: "infosys.png",
+      logo_path: "Infosys.png",
       certificate_link:
         "https://graphacademy.neo4j.com",
       alt_name: "AWS Certified Developer - Associate - Prep Course",
@@ -366,7 +366,7 @@ const certifications = {
     {
       title: "Accenture North America - Data Analytics and Visualization Job Simulation",
       subtitle: "- Forage",
-      logo_path: "forage.png",
+      logo_path: "forage-logo.png",
       certificate_link:
         "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_qDs8sY4SkuxfLmEHj_1725818432093_completion_certificate.pdf?trk=public_profile_see-credential",
       alt_name: "Forage",
@@ -376,7 +376,7 @@ const certifications = {
     {
       title: "Career Essentials in Generative AI by Microsoft and LinkedIn",
       subtitle: "- LinkedIn",
-      logo_path: "linkedin.png",
+      logo_path: "Linkedin.png",
       certificate_link:
         "https://www.linkedin.com/learning/certificates/41f0c54efba0ba995b6273d4d310c26dbe9a5e8eea9b7f876a95391c190ea4a6?trk=public_profile_see-credential",
       alt_name: "Career Essentials in Generative AI by Microsoft and LinkedIn",
@@ -396,7 +396,7 @@ const certifications = {
     {
       title: "Introduction to Cybersecurity",
       subtitle: "- Cisco",
-      logo_path: "cisco.png",
+      logo_path: "Cisco.png",
       certificate_link:
         "https://www.credly.com/badges/f7f5933b-2638-490c-b254-3ae72f5604b7/public_url?trk=public_profile_see-credential",
       alt_name: "Introduction to Cybersecurity",
@@ -406,7 +406,7 @@ const certifications = {
     {
       title: "Java (Basic)",
       subtitle: "- HackerRank",
-      logo_path: "hackerRank.png",
+      logo_path: "Hackerrank.png",
       certificate_link:
         "https://www.hackerrank.com/certificates/39f915400073?trk=public_profile_see-credential",
       alt_name: "hackerRank",
@@ -416,7 +416,7 @@ const certifications = {
     {
       title: "Problem Solving (Basic)",
       subtitle: "- HackerRank",
-      logo_path: "hackerRank.png",
+      logo_path: "Hackerrank.png",
       certificate_link:
         "https://www.hackerrank.com/certificates/2619b16cde69?trk=public_profile_see-credential",
       alt_name: "hackerRank",
@@ -426,7 +426,7 @@ const certifications = {
     {
       title: "Python (Basic)",
       subtitle: "- HackerRank",
-      logo_path: "hackerRank.png",
+      logo_path: "Hackerrank.png",
       certificate_link:
         "https://www.hackerrank.com/certificates/90eb24116de3?trk=public_profile_see-credential",
       alt_name: "hackerRank",
@@ -436,7 +436,7 @@ const certifications = {
     {
       title: "Working with Big Data in Python",
       subtitle: "- Infosys Springboard",
-      logo_path: "infosys.png",
+      logo_path: "Infosys.png",
       certificate_link:
         "https://graphacademy.neo4j.com",
       alt_name: "Working with Big Data in Python",
@@ -446,7 +446,7 @@ const certifications = {
     {
       title: "Micro-Certification - Welcome to ServiceNow",
       subtitle: "- ServiceNow",
-      logo_path: "servicenow.png",
+      logo_path: "Servicenow.png",
       certificate_link:
         "https://graphacademy.neo4j.com",
       alt_name: "Micro-Certification - Welcome to ServiceNow",
